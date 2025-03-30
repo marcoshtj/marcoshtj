@@ -1,6 +1,7 @@
 ###
-
-<img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZtNHI0Mnhxb3BuNWlzMjJ1c3RteHoydzY5cGoxeXZxczFxYWVrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<div>
+  <img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZtNHI0Mnhxb3BuNWlzMjJ1c3RteHoydzY5cGoxeXZxczFxYWVrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+</div>
 
 ###
 
