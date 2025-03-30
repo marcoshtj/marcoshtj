@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Marcos Henrique and I'm a Full Stack Developer</h2>
+<h1 align="center">Hi 👋! My name is Marcos Henrique and I'm a Full Stack Developer 👨🏻‍💻</h1>
 
 ###
 
