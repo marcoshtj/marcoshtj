@@ -1,6 +1,9 @@
 ###
-<img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZtNHI0Mnhxb3BuNWlzMjJ1c3RteHoydzY5cGoxeXZxczFxYWVrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+
+<img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZtNHI0Mnhxb3BuNWlzMjJ1c3RteHoydzY5cGoxeXZxczFxYWVrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
 ###
+
 <h2 align="center">Hi 👋! My name is Marcos Henrique and I'm a Full Stack Developer</h2>
 
 ###
@@ -11,7 +14,9 @@
 </div>
 
 ###
+
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG91dmRzNWVnNHJyZnI2YmpkdWUzY3lqazFudHR1eDVkdjY4ZHhwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
 ###
 
 <div align="left">
